@@ -9,7 +9,7 @@ related_hardening_ids: [HARD-001]
 related_test_ids: [TEST-001]
 related_finding_ids: [FIND-001]
 ---
-# 🤝 Joint Review — konfrontacja wyników
+# ![JOINT](../assets/icons/joint.svg) Joint Review — konfrontacja wyników
 
 ## Co Red wykrył, czego Blue nie przewidział?
 [opis, wskaż ID]

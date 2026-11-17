@@ -1,4 +1,4 @@
-# 📋 CyberSparring — szablon ćwiczenia v0.1.5
+# ![INFO](assets/icons/info.svg) CyberSparring — szablon ćwiczenia v0.1.6
 
 > **Status: PROTOTYP** · Markdown + YAML · Bez wtyczek Obsidiana
 
@@ -9,7 +9,7 @@ Aby zacząć, pobierz z repozytorium CyberSparring_Obsidian.zip, rozpakuj go i o
 
 ## Legenda (FROZEN)
 
-| 🎯 RED | 🛡️ BLUE | 🤝 JOINT | 📋 INFO |
+| ![RED](assets/icons/red.svg) RED | ![BLUE](assets/icons/blue.svg) BLUE | ![JOINT](assets/icons/joint.svg) JOINT | ![INFO](assets/icons/info.svg) INFO |
 |---|---|---|---|
 | Testy penetracyjne | Konfiguracja i hardening | Wspólny przegląd | Instrukcje |
 
@@ -24,11 +24,11 @@ Otwórzcie [repozytorium CyberSparring](https://github.com/cybersparing/cyberspa
 
 1. Weźcie numer edycji i temat z Moodle. Połączcie numer edycji z numerem swojej sekcji, np. `CS-01-S02` oznacza CyberSparring 1, sekcja 2.
 2. W obu kopiach zamieńcie `CS-XXXX` na swój CS-ID w `session.yaml`, w nagłówkach YAML dokumentów z polem `session_id` oraz w `common/rules.md`. Możecie użyć funkcji **Zamień w plikach** w edytorze. W `session.yaml` wpiszcie temat w polu `scenario`. Używajcie tego samego CS-ID w kolejnych dokumentach.
-3. **🛡️ BLUE** dokumentuje pracę w `blue/` i `joint/hardening-observations-blue.md`. **🎯 RED** dokumentuje pracę w `red/` i `joint/pentest-preparation-notes-red.md`. W trybie **black box** dokumentację BLUE udostępnijcie RED podczas wspólnego przeglądu.
+3. **![BLUE](assets/icons/blue.svg) BLUE** dokumentuje pracę w `blue/` i `joint/hardening-observations-blue.md`. **![RED](assets/icons/red.svg) RED** dokumentuje pracę w `red/` i `joint/pentest-preparation-notes-red.md`. W trybie **black box** dokumentację BLUE udostępnijcie RED podczas wspólnego przeglądu.
 
 ## Wspólny przegląd i oddanie
 
-1. **🤝 JOINT.** Po testach skopiujcie do jednej wspólnej kopii katalogi `blue/` i `red/` oraz obie notatki z `joint/`. Uzupełnijcie `joint/joint-review.md` i `joint/lessons-learned.md`. Ich treść utworzy raport PDF. Naprawy i retesty dopiszcie jako nowe rekordy.
+1. **![JOINT](assets/icons/joint.svg) JOINT.** Po testach skopiujcie do jednej wspólnej kopii katalogi `blue/` i `red/` oraz obie notatki z `joint/`. Uzupełnijcie `joint/joint-review.md` i `joint/lessons-learned.md`. Ich treść utworzy raport PDF. Naprawy i retesty dopiszcie jako nowe rekordy.
 2. W głównym katalogu wspólnej kopii zapiszcie kopię `sklad-sekcji.example.yaml` jako `sklad-sekcji.yaml`. Wpiszcie imiona i nazwiska w listach odpowiednich ról, po jednej osobie na wiersz. Przy kilku osobach dodajcie kolejne wiersze z myślnikiem.
 
    ```yaml

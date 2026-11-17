@@ -8,7 +8,7 @@ related_finding_ids: [FIND-001]
 status: planned
 retest_status: not_run
 ---
-# 🤝 REMED-001 — Naprawa i retest
+# ![JOINT](../../assets/icons/joint.svg) REMED-001 — Naprawa i retest
 
 ## Jaką zmianę wprowadzono?
 [opis]

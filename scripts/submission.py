@@ -33,7 +33,7 @@ def render_report(root, session, event_section, output, read_frontmatter):
     joint = root / "joint"
     reports = ("joint-review.md", "lessons-learned.md")
     body = "".join(
-        markdown.render(read_frontmatter(joint / name)[1].replace("# 🤝 ", "# "))
+        markdown.render(read_frontmatter(joint / name)[1])
         for name in reports
     )
 

@@ -11,7 +11,7 @@ expected: "[spodziewany wynik]"
 actual: "[rzeczywisty wynik / brak wyniku]"
 related_finding_ids: []
 ---
-# 🎯 TEST-001 — Przypadek testowy
+# ![RED](../../assets/icons/red.svg) TEST-001 — Przypadek testowy
 
 ## Warunki wstępne
 [co trzeba wiedzieć / przygotować]

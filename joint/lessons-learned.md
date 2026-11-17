@@ -6,7 +6,7 @@ id: LESSONS-001
 session_id: CS-XXXX
 phase: review
 ---
-# 🤝 Lessons Learned — wnioski
+# ![JOINT](../assets/icons/joint.svg) Lessons Learned — wnioski
 
 ## Najważniejsze odkrycia obu osób
 [opis]

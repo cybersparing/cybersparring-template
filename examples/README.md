@@ -1,4 +1,4 @@
-# 📋 Przykład zapisu
+# ![INFO](../assets/icons/info.svg) Przykład zapisu
 
 Przykład pokazuje różnicę między **obserwacją** (wynik narzędzia) a **hipotezą** (wniosek testera). Nie kopiuj przykładowych wyników jako własnych.
 

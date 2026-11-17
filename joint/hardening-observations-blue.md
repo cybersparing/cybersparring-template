@@ -6,7 +6,7 @@ id: REF-BLUE-001
 session_id: CS-XXXX
 phase: preparation
 ---
-# 🛡️ Blue — obserwacje z utwardzania (przed Joint Review)
+# ![BLUE](../assets/icons/blue.svg) Blue — obserwacje z utwardzania (przed Joint Review)
 
 ## Co było trudne?
 [opis]

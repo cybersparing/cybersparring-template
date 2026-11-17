@@ -7,7 +7,7 @@ session_id: CS-XXXX
 target_id: SRV-001
 status: draft
 ---
-# 🛡️ Środowisko i punkt wyjścia
+# ![BLUE](../assets/icons/blue.svg) Środowisko i punkt wyjścia
 
 ## System, usługi i cel
 [system, wersja, zakres działania, bez sekretów]

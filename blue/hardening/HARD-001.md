@@ -10,7 +10,7 @@ status: planned
 verified: false
 related_test_ids: []
 ---
-# 🛡️ HARD-001 — Działanie utwardzające
+# ![BLUE](../../assets/icons/blue.svg) HARD-001 — Działanie utwardzające
 
 ## Cel i uzasadnienie
 [co i przed czym zabezpieczasz]

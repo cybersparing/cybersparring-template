@@ -12,7 +12,7 @@ severity: unknown
 confidence: low
 evidence_paths: []
 ---
-# 🎯 FIND-001 — Ustalenie
+# ![RED](../../assets/icons/red.svg) FIND-001 — Ustalenie
 
 ## Zaobserwowany fakt
 [wynik, nie hipoteza]
