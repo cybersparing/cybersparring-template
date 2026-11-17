@@ -1,0 +1,26 @@
+# Local Obsidian state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+# Secrets and unsafe artifacts
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.kdbx
+*.pcap
+*.pcapng
+*.dump
+*.vmdk
+*.vdi
+*.qcow2
+*.ova
+__pycache__/
+*.pyc
+*.zip
+!/CyberSparring_Obsidian.zip
+
+# Skład sekcji do PDF
+/sklad-sekcji.yaml
